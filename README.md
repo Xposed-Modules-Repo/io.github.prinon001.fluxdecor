@@ -79,7 +79,7 @@ SystemUI 插件会随系统版本更新。状态栏相关能力需要目标版�
 | 版本 | 4.1.2  |
 | 作用域 | `systemui` |
 | 许可证 | MIT |
-| 作者 | prinon001 |
+| 作者 | prinon |
 | Xposed API |  API 101 |
 
 ## Package
