@@ -63,30 +63,6 @@
 ### 其他调整
 - 右上角小绿点,小白条颜色自定义/隐藏等
 
-Note
-SystemUI 插件会随系统版本更新。状态栏相关能力需要目标版本提供对应结构，实际支持范围以当前版本说明和设备表现为准
-
 ## 下载
 
 前往 [GitHub Releases](https://github.com/prinon001/Flux_Decor/releases) 下载最新的 Flux Decor APK。
-
-## 模块信息
-
-| 项 | 值 |
-|---|---|
-| 包名 | `io.github.prinon001.fluxdecor` |
-| 模块名 | Flux Decor |
-| 版本 | 4.1.2  |
-| 作用域 | `systemui` |
-| 许可证 | MIT |
-| 作者 | prinon |
-| Xposed API |  API 101 |
-
-## Package
-io.github.prinon001.fluxdecor
-## Authors
-[prinon](https://github.com/prinon001)
-## Support / Discussion URL
-https://github.com/prinon001/Flux_Decor
-## Source URL
-https://github.com/prinon001/Flux_Decor
